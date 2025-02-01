@@ -1,5 +1,4 @@
-**nothing here...**
-
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=%22Ubuntu+Mono%22&letterSpacing=-1px&pause=500&color=00FF00&width=435&lines=nothing+here+.+.+.+;go+away+.+.+." alt="Typing SVG" /></a>
 <!--
 **D-f4lt/D-f4lt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
